@@ -1,0 +1,113 @@
+
+
+@media only screen and (max-width: 1200px) {
+
+    .img-box  img {max-width: 50%; width: 100%;}
+    .img-box2  img {max-width: 50%; width: 100%;}
+}
+
+@media only screen and (max-width: 992px) {
+    .header-left {float: left; max-width: 10%; width: 100%; }
+    .header-right {float: right; max-width: 45%; width: 100%;}
+    .header-center {float: right; max-width: 45%; width: 100%;}
+
+    .meal_wrapper h1 {color: #dd7017; font-size: 50px; padding: 10px 0; margin: 0;}
+    .meal_wrapper h2 {color: #649483; font-size: 16px; padding: 0px 0; margin: 0;}
+    .meal_wrapper p {color: #649483; font-size: 14px; padding: 10px 0; margin: 0;}
+    .order-btn1 {padding: 5px 10px; font-size: 14px;  margin: 5px;}
+
+    .img-box {position: absolute;  display: none;}
+
+        
+}
+
+@media only screen and (max-width: 868px) {
+
+    .right-banner {margin-left: 10px; padding: 10px 0;}
+    .left-banner h2 {color: #649483; padding: 10px; margin: 0;font-size: 18px;}
+    .left-banner p {color: #649483; padding: 5px; margin: 0; font-size: 14px;}
+    .right-banner h1 {color: #dd7017; font-size: 50px; padding: 10px 0;margin: 0; } 
+    .order2-btn {padding: 8px 17px; font-size: 12px;}
+    .order3-btn{padding: 8px 17px; font-size: 12px;}
+    .banner-slider {padding: 10px 0; margin: 30px 0 ; }
+    .img-box2 {position: absolute;  display: none;}
+
+}
+
+@media only screen and (max-width: 768px) {
+    .left-banner img{ width: 100%; max-width: 80%;}
+    .banner-main  {top: 60%; }
+    .right-banner {margin-left: 10px; padding: 10px 0;}
+    .left-banner h2 {color: #649483; padding: 5px; margin: 0;font-size: 16px;}
+    .left-banner p {color: #649483; padding: 5px; margin: 0; font-size: 14px;}
+    .right-banner h1 {color: #dd7017; font-size: 45px; padding: 5px 0;margin: 0; } 
+    .order2-btn {padding: 8px 15px; font-size: 10px;}
+    .order3-btn{padding: 8px 15px; font-size: 10px;}
+    .banner-slider {padding: 10px 0; margin: 20px 0 ; }
+    .box-img img {width: 100%; padding: 0 10px; max-width: 25%; margin: 0 auto;}
+
+    .meal_wrapper h1 {color: #dd7017; font-size: 30px; padding: 5px 0; margin: 0;}
+    .meal_wrapper h2 {color: #649483; font-size: 14px; padding: 10px 0; margin: 0;}
+    .meal_wrapper p {color: #649483; font-size: 12px; padding: 5px 0; margin: 0;}
+    .order-btn1 {padding: 3px 8px; font-size: 12px;  margin: 5px;}
+
+    
+}
+
+@media only screen and (max-width: 685px) {
+    .header-top { display: block;}
+    .header-left {float: none; max-width: 100%; width: 100%;  text-align: center;padding: 5px 0;}
+    .header-right {float: none; max-width: 100%; width: 100%;padding: 5px 0;}
+    .header-center {float: none; max-width: 100%; width: 100%;text-align: center;padding: 5px 0;}
+    .header-top  ul {list-style: none; padding: 0; margin: 0;display: flex; margin: 0 auto; }
+    .header-top  ul li {padding: 0 12px;}
+
+}
+
+@media only screen and (max-width: 600px) {
+    .banner-main  {top: 50%; }
+    .right-banner h1 {color: #dd7017; font-size: 35px; padding: 5px 0;margin: 0; }
+    .left-banner h2 {color: #649483; padding: 5px; margin: 0;font-size: 12px;}
+    .left-banner p {color: #649483; padding: 0px; margin: 0; font-size: 10px;}
+    .order2-btn {padding: 8px 15px; font-size: 10px; margin:5px 0 ;}
+    .order3-btn{padding: 8px 15px; font-size: 10px;}
+    .banner-slider {padding: 5px 0; margin: 5px 0 ; }
+    .our_process h1 {font-size: 30px; padding: 5px 0; margin: 0; color: #feebe0;}
+    .our_process p { padding: 5px 0; margin: 0; color: #feebe0; font-size: 14px;} 
+
+    .say_wrapper h1 {font-size: 30px; padding: 10px 0; margin: 0; color: #feebe0;}
+    .say_wrapper h2 {font-size: 18px; padding: 5px 0; margin: 0; color: #feebe0;}
+    .say_wrapper p { padding: 5px 0; margin: 0; color: #feebe0; font: optional;14px} 
+
+    .Recipes {padding-top: 30px;}
+
+    .plane-box h1 {font-size: 40px; padding: 5px; margin: 0; color: #dd7017; }
+    .plane-box p { padding: 5px 0px 0; margin: 0; color: #649483; font-size: 14px;}
+}
+
+
+@media only screen and (max-width: 400px) {
+    .banner-main  {top: 55%; }
+    .right-banner h1 {color: #dd7017; font-size: 25px; padding: 5px 0;margin: 0; }
+    .left-banner h2 {color: #649483; padding: 5px; margin: 0;font-size: 10px;}
+    .left-banner p {color: #649483; padding: 0px; margin: 0; font-size: 8px;}
+    .order2-btn {padding: 3px 10px; font-size: 8px; margin:5px 0 ;}
+    .order3-btn{padding: 3px 5px; font-size: 8px;}
+    .banner-slider {padding: 0px 0; margin: 5px 0 ; }
+    .box-img img {width: 100%; padding: 0 10px; max-width: 30%; margin: 0 auto; vertical-align: middle;}
+    .box-img p {font-size:8px ;}
+    .banner-slider .owl-nav .owl-prev span {font-size: 20px;top: 50px;   right:30px;}
+    .banner-slider .owl-nav .owl-next span  {font-size: 20px;    top: 50px; right:10px;}
+    .btn-group {display: block;}
+
+    .plane-box h1 {font-size: 30px; padding: 5px; margin: 0; color: #dd7017; }
+    .plane-box p { padding: 5px 0px 0; margin: 0; color: #649483; font-size: 12px;}
+}
+
+
+
+
+
+
+
+
